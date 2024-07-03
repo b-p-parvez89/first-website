@@ -1,0 +1,30 @@
+*{
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+#title{
+    background-color: rgb(32, 32, 245);
+    width: 90%;
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 4px 0px 4px 12px;
+    border-radius: 12px;
+    color: white;
+align-self: center;;
+
+}
+li{
+    display: inline;
+    text-align: leftS;
+    background-color: blue;
+    padding: 4px 12px 4px 12px;
+    width: 100px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
